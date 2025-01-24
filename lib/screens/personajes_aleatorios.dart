@@ -153,7 +153,7 @@ class EstadoAleatorio extends State<PersonajesAleatorios> {
                       label: Text(
                         okFav
                             ? 'Eliminar de Favoritos'
-                            : 'Aniadir a Favoritos',
+                            : 'Añadir a Favoritos',
                         style: const TextStyle(
                             color: Color.fromARGB(255, 0, 0, 0)), // Texto en negro
                       ),
